@@ -1,0 +1,9 @@
+/*
+-- Query: SELECT * FROM people.address
+LIMIT 0, 1000
+
+-- Date: 2022-03-08 16:02
+*/
+INSERT INTO `` (`ADDRESS_ID`,`STREET_NAME`,`STREET_NUMBER`) VALUES (1,'aleea trandafirilor',10);
+INSERT INTO `` (`ADDRESS_ID`,`STREET_NAME`,`STREET_NUMBER`) VALUES (2,'aleea lalelelor',11);
+INSERT INTO `` (`ADDRESS_ID`,`STREET_NAME`,`STREET_NUMBER`) VALUES (3,'lacul ursului',22);
